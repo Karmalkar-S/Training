@@ -1,0 +1,5 @@
+1) https://www.tutorialspoint.com/sql/
+
+2) http://www.w3resource.com/sql-exercises/
+
+3) https://www.codeproject.com/Articles/21371/SQL-Server-Profiler-Step-by-Step
