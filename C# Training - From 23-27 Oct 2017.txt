@@ -1,0 +1,22 @@
+.Net
+1) Define terms
+2) How the framework works
+3) Show the IDE for development
+
+C#
+1) Define a real time example in the form of UML
+2) Show the IDE - Executing, debugging, error checking
+3) Teach the concepts
+4) Define the logic
+5) Check for efficiency/errors/Testing/performance
+6) Discuss history, new features. 
+
+
+Programming
+1) Identify and understand the problem
+2) Identify the actors
+3) Get the logic write
+4) Write psuedo code - on paper
+5) Write psuedo code
+6) Write code
+
